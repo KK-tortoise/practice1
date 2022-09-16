@@ -1,0 +1,13 @@
+.header {
+  max-width: 100%;
+  height: auto;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.header__menu-list {
+  margin-left: 20px;
+}
+/*# sourceMappingURL=mobile.css.map */
